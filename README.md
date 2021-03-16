@@ -2,7 +2,7 @@
 - 👀 I’m interested in <Liferay, Java, JQuery, JavaScript> 
 - 🌱 I’m currently learning <React JS>
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - <vinay.a116@gmail.com>
+- 📫 How to reach me - email : <vinay.a116@gmail.com>, linkedin : https://www.linkedin.com/in/vinay-kumar-761b4355/
 
 <!---
 vinay-a116/vinay-a116 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
